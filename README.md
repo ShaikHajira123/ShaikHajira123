@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYKB4G8G_k-4vAmNl5MFxQcFDipW6qJ6_1w&usqp=CAU" width="900" height="400">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYKB4G8G_k-4vAmNl5MFxQcFDipW6qJ6_1w&usqp=CAU" width="900" height="300">
 
 
 <h1 align="center">Hi there👋, I'm Shaik Hajira Sultana</h1>
