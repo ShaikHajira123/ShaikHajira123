@@ -1,5 +1,4 @@
 
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://khushboogoel01.github.io)
 <h1 align="center">Hi there👋, I'm Shaik Hajira Sultana</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
@@ -23,6 +22,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
