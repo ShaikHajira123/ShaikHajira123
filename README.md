@@ -1,4 +1,4 @@
-![MasterHead](width:600px https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYKB4G8G_k-4vAmNl5MFxQcFDipW6qJ6_1w&usqp=CAU)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYKB4G8G_k-4vAmNl5MFxQcFDipW6qJ6_1w&usqp=CAU" width="600">
 
 
 <h1 align="center">Hi there👋, I'm Shaik Hajira Sultana</h1>
