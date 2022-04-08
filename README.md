@@ -1,11 +1,11 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYKB4G8G_k-4vAmNl5MFxQcFDipW6qJ6_1w&usqp=CAU" width="900">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYKB4G8G_k-4vAmNl5MFxQcFDipW6qJ6_1w&usqp=CAU" width="900" height="400">
 
 
 <h1 align="center">Hi there👋, I'm Shaik Hajira Sultana</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-###About
-Aspiring full-stack web developer with a specialization in MERN Stack.Collaborative, quick learner, self-motivated and having interest in building websites .Looking to start a career as a Full Stack Web Developer.Ability to learn new softwares and technologies quickly.
+<p>
+Aspiring full-stack web developer with a specialization in MERN Stack.Collaborative, quick learner, self-motivated and having interest in building websites .Looking to start a career as a Full Stack Web Developer.Ability to learn new softwares and technologies quickly.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhajira123&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhajira123" /> </p>
 
