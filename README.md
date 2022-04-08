@@ -8,7 +8,7 @@
             }
         }
     </style>
-![Fancy logo](./dark.png#gh-dark-mode-only)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1649894400&v=beta&t=9ftvnINumN5h6vFaR-FyTOl-2Ov9sR28qcB_c-SqH5k)]
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYKB4G8G_k-4vAmNl5MFxQcFDipW6qJ6_1w&usqp=CAU" width="900" height="300">
 
 
