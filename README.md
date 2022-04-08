@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there👋, I'm Shaik Hajira Sultana</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://shaikhajira123.github.io)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhajira123&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhajira123" /> </p>
 
