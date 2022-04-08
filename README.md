@@ -1,3 +1,5 @@
+
+![Fancy logo](./dark.png#gh-dark-mode-only)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYKB4G8G_k-4vAmNl5MFxQcFDipW6qJ6_1w&usqp=CAU" width="900" height="300">
 
 
