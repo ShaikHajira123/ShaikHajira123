@@ -1,3 +1,5 @@
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYKB4G8G_k-4vAmNl5MFxQcFDipW6qJ6_1w&usqp=CAU)]
+
 
 <h1 align="center">Hi there👋, I'm Shaik Hajira Sultana</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
@@ -22,7 +24,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...")
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
