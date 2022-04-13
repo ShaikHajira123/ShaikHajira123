@@ -11,7 +11,7 @@ Aspiring full-stack web developer with a specialization in MERN Stack.Collaborat
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhajira123&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhajira123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaikhajira123" alt="shaikhajira123" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaikhajira123" alt="shaikhajira123" /></a> </p> -->
 
 - 🔭 I’m currently working on **upGrad Website**
 
