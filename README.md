@@ -43,6 +43,6 @@ Aspiring full-stack web developer with a specialization in MERN Stack.Collaborat
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikhajira123&show_icons=true&locale=en&layout=compact" alt="shaikhajira123" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikhajira123&show_icons=true&locale=en" alt="shaikhajira123" /></p>
-</span>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhajira123&" alt="shaikhajira123" /></p>
 
