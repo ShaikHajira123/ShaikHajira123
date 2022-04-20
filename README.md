@@ -1,5 +1,5 @@
 
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1649894400&v=beta&t=9ftvnINumN5h6vFaR-FyTOl-2Ov9sR28qcB_c-SqH5k)
+<!-- ![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1649894400&v=beta&t=9ftvnINumN5h6vFaR-FyTOl-2Ov9sR28qcB_c-SqH5k) -->
 
 
 
@@ -49,4 +49,4 @@ Aspiring full-stack web developer with a specialization in MERN Stack.Collaborat
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhajira123&" alt="shaikhajira123" /></p>
 
-## 📌 Pinned Repositories
+
