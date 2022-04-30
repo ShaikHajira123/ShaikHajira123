@@ -17,7 +17,7 @@ Aspiring full-stack web developer with a specialization in MERN Stack.Collaborat
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at (http://hajiraportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at http://hajiraportfolio.netlify.app/
 
 - 💬 Ask me about **React,NodeJS,MongoDB,ExpressJS,HTML,CSS,JavaScript**
 
