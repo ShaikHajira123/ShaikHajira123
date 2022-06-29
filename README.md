@@ -23,7 +23,7 @@ Aspiring full-stack web developer with a specialization in MERN Stack.Collaborat
 
 - 📫 How to reach me **shaikhajirasultana@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1IccZpabZmAWuIDytgBhlds_IJZWcq-k7]
+- 📄 Know about my experiences (https://drive.google.com/drive/u/0/folders/1IccZpabZmAWuIDytgBhlds_IJZWcq-k7)
 
 
 
