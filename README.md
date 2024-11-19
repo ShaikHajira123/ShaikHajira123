@@ -7,19 +7,19 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <p>
-Aspiring full-stack web developer with a specialization in MERN Stack.Collaborative, quick learner, self-motivated and having interest in building websites .Looking to start a career as a Full Stack Web Developer.Ability to learn new softwares and technologies quickly.</p>
+Results-driven Full Stack Software Engineer with 2.3 years of experience in MEAN stack development and 9 months in MERN stack. I possess a solid technical background in designing resilient backend systems and crafting captivating user interfaces. My expertise lies in seamlessly integrating third-party platforms to boost functionality and streamline performance. Known for my collaborative spirit, I excel at collaborating with diverse teams across various functions. Quick learner, self-motivated, and ability to learn new softwares and technologies quickly.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhajira123&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhajira123" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaikhajira123" alt="shaikhajira123" /></a> </p> -->
 
-- 🔭 I’m currently working on **upGrad Website**
+- 🔭 I’m currently working on **Expense Tracker App**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Java, Kafka, Elastic Search**
 
 - 👨‍💻 All of my projects are available at http://hajiraportfolio.netlify.app/
 
-- 💬 Ask me about **React,NodeJS,MongoDB,ExpressJS,HTML,CSS,JavaScript**
+- 💬 Ask me about **Node.js | Express.js | MongoDB | SQL | Redis | Nest.js | Mongoose | Websockets | SFTP Server | EDI (Electronic Data Interchange) | Kubernetes | Docker | Microservices | CI/CD pipelines | Nginx | Angular | React | EJS | HTML | CSS | Bootstrap | Material UI | Tailwind | TypeScript | JavaScript | X12 | XML | ES6 | Git | GitHub | AWS | Agile | Jira**
 
 - 📫 How to reach me **shaikhajirasultana@gmail.com**
 
