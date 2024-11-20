@@ -23,7 +23,7 @@ Results-driven Full Stack Software Engineer with 3 years of experience in MEAN/M
 
 - 📫 How to reach me **shaikhajirasultana@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eqKm-YQhnN4kffCT1aIKzzzJ4tiACo_R/view?usp=drive_link]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NpJ7oejf32yaoIXm0VNkkd8QOgnqVb2k/view]
 
 
 
