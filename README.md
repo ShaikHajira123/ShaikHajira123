@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <p>
-Results-driven Full Stack Software Engineer with 2.3 years of experience in MEAN stack development and 9 months in MERN stack. I possess a solid technical background in designing resilient backend systems and crafting captivating user interfaces. My expertise lies in seamlessly integrating third-party platforms to boost functionality and streamline performance. Known for my collaborative spirit, I excel at collaborating with diverse teams across various functions. Quick learner, self-motivated, and ability to learn new softwares and technologies quickly.</p>
+Results-driven Full Stack Software Engineer with 3 years of experience in MEAN/MERN stack development. I possess a solid technical background in designing resilient backend systems and crafting captivating user interfaces. My expertise lies in seamlessly integrating third-party platforms to boost functionality and streamline performance. Known for my collaborative spirit, I excel at collaborating with diverse teams across various functions. Quick learner, self-motivated, and ability to learn new softwares and technologies quickly.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhajira123&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhajira123" /> </p>
 
